@@ -14,7 +14,7 @@ using StringTools;
  */
 class Alphabet extends FlxSpriteGroup
 {
-	public var delay:Float = 0.05;
+	public var delay:Float = 0.04;
 	public var paused:Bool = false;
 
 	// for menu shit
